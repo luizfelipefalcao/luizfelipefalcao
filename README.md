@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Felipe
 
-- 🔭 I’m currently working on a project which helps people with information about canadian imigration
-- 👍 Please feel free to visit it at 🍁 www.canadaimmi.tools
-- 🌱 I’m currently learning Typescript
-- 👯 I’m looking for an opportunity to work as Junior Frontend Web Developer using JS and ReactJS
+- 🔭 I’m currently working as Mobile Frontend Developer using React Native and Typescript
+<!-- - 👍 Please feel free to visit it at 🍁 www.canadaimmi.tools -->
+<!-- - 🌱 I’m currently learning Typescript -->
+- 👯 I’m looking for an opportunity to work as Intermediate Frontend Web Developer using JS/Typescript and ReactJS
 - 📫 How to reach me: www.luizfelipefalcao.com or falcao.lfj@yahoo.com
 - 😄 Pronouns: he/him
   
